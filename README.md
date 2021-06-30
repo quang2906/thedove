@@ -5,8 +5,12 @@ Project bao gồm 2 phần: backend (Golang) và frontend (VueJS):
 
 #Hướng dẫn cài đặt và chạy dự án:
 Sau khi clone project, giải nén ra 2 thư mục
-- Thư mục thedove_api:
+- Backend:
+  PORT: 3000
   Mở file connect.go và cấu hình lại database
-  Mở terminal -> Run and Debug -> Launc Package
-- Thư mục thedove_vuejs:
-  Mở terminal -> yarn serve
+  Mở terminal -> Run and Debug -> Launch Package
+  
+- Frontend:
+  PORT: 8080
+  Mở terminal -> npm install (cài các thư viện còn thiếu)
+              -> yarn serve (chạy project)
