@@ -13,4 +13,4 @@ Sau khi clone project, giải nén ra 2 thư mục
 2. Frontend:
   - PORT: 8080
   - Mở terminal -> npm install (cài các thư viện còn thiếu)
-              -> yarn serve (chạy project)
+  -             -> yarn serve (chạy project)
