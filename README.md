@@ -14,3 +14,20 @@ Sau khi clone project, giải nén ra 2 thư mục
   - PORT: 8080
   - Mở terminal -> npm install (cài các thư viện còn thiếu)
   -             -> yarn serve (chạy project)
+
+3. Demo website
+
+- Home page:
+
+![image](https://user-images.githubusercontent.com/58805171/123943139-0a084c00-d9c6-11eb-86a6-20f2f37b0f3a.png)
+
+
+- Product:
+
+![image](https://user-images.githubusercontent.com/58805171/123943209-1f7d7600-d9c6-11eb-8df5-a720dccb4419.png)
+
+
+
+- Shopping cart:
+
+![image](https://user-images.githubusercontent.com/58805171/123942919-ca416480-d9c5-11eb-8fed-ee18e8a406e2.png)
